@@ -1,0 +1,19 @@
+.gradle/
+build/
+!gradle/wrapper/gradle-wrapper.jar
+
+# Eclipse / VS Code Java 拡張のコンパイル出力
+bin/
+
+.idea/
+*.iml
+.vscode/
+.settings/
+.classpath
+.project
+
+*.log
+.DS_Store
+
+# 設計ドキュメント(ローカル管理。GitHubには公開しない)
+docs/
